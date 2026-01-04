@@ -1,4 +1,4 @@
-# Automaty - DFA Editor
+# yanAutomat - DFA Editor
 
 Interactive graphical editor for **Deterministic Finite Automata (DFA)** written in C using [raylib](https://www.raylib.com/).
 
