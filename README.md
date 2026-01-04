@@ -86,10 +86,6 @@ Uses partition refinement algorithm (simplified Hopcroft) to find minimal equiva
 ### Complement
 Creates new automaton where accepting and non-accepting states are swapped.
 
-## Screenshots
-
-*Add screenshots here*
-
 ## License
 
 MIT License - see [LICENSE](LICENSE) file.
