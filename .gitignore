@@ -1,0 +1,28 @@
+# Build artifacts
+*.exe
+*.o
+obj/
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.user
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and temp files
+*.log
+*.tmp
+error.txt
+
+# Libraries (user must download)
+lib/raylib/
+
+# Backup files
+*~
+*.bak
+*.swp
